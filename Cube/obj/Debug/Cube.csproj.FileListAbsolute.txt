@@ -1,0 +1,10 @@
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\bin\Debug\Cube.exe.config
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\bin\Debug\Cube.exe
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\bin\Debug\Cube.pdb
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.csproj.AssemblyReference.cache
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.CubeForm.resources
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.Properties.Resources.resources
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.cache
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.csproj.CoreCompileInputs.cache
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.exe
+C:\Users\CZente\Desktop\shared\dev\csharp\orai\Cube\Cube\obj\Debug\Cube.pdb
